@@ -1,0 +1,17 @@
+[
+  {
+    "codigo": "CERT-001",
+    "nombre": "Francisco Gerardo Arias",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "CERT-002",
+    "nombre": "María Fernanda López",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "CERT-003",
+    "nombre": "Dr. Carlos Ruiz",
+    "rol": "Ponente"
+  }
+]
