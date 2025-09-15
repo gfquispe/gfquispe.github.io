@@ -1,17 +1,227 @@
 [
   {
-    "codigo": "CERT-001",
-    "nombre": "Francisco Gerardo Arias",
+    "codigo": "001-FIEEIM",
+    "nombre": "Díaz Rodríguez, Natalia",
+    "rol": "Organizador"
+  },
+  {
+    "codigo": "002-FIEEIM",
+    "nombre": "Martínez García, María",
+    "rol": "Organizador"
+  },
+  {
+    "codigo": "003-FIEEIM",
+    "nombre": "Enciso Rodas, Lauro",
+    "rol": "Organizador"
+  },
+  {
+    "codigo": "004-FIEEIM",
+    "nombre": "Quispe Torres, Gerar Francis",
+    "rol": "Organizador"
+  },
+  {
+    "codigo": "005-FIEEIM",
+    "nombre": "Venegas Vergara, Maria Del Pilar",
+    "rol": "Organizador"
+  },
+  {
+    "codigo": "006-FIEEIM",
+    "nombre": "Mogrovejo Ccorimanya, Luis Angel",
+    "rol": "Organizador"
+  },
+  {
+    "codigo": "007-FIEEIM",
+    "nombre": "Auccacusi Huanca, Paul Andre",
+    "rol": "Organizador"
+  },
+  {
+    "codigo": "008-FIEEIM",
+    "nombre": "Romero Bernal, Jhamsid",
+    "rol": "Organizador"
+  },
+  {
+    "codigo": "009-FIEEIM",
+    "nombre": "Ademir Erikson Portillo Livisi",
     "rol": "Asistente"
   },
   {
-    "codigo": "CERT-002",
-    "nombre": "María Fernanda López",
+    "codigo": "010-FIEEIM",
+    "nombre": "Alex Berrios Thea",
     "rol": "Asistente"
   },
   {
-    "codigo": "CERT-003",
-    "nombre": "Dr. Carlos Ruiz",
-    "rol": "Ponente"
+    "codigo": "011-FIEEIM",
+    "nombre": "Andy Jefferson Zevallos Yanqui",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "012-FIEEIM",
+    "nombre": "Doris Sabina Aguirre Carbajal",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "013-FIEEIM",
+    "nombre": "Eduardo Jhosef Santos Pillco",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "014-FIEEIM",
+    "nombre": "Efraina Gladys Cutipa Arapa",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "015-FIEEIM",
+    "nombre": "Elida Falcon Huallpa",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "016-FIEEIM",
+    "nombre": "Etner Yury Quispe Arqque",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "017-FIEEIM",
+    "nombre": "Gerar Francis Quispe Torres",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "018-FIEEIM",
+    "nombre": "Harley Vera Olivera",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "019-FIEEIM",
+    "nombre": "Hector Eduardo Ugarte Rojas",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "020-FIEEIM",
+    "nombre": "Ivan Cesar Medrano Valencia",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "021-FIEEIM",
+    "nombre": "Jenny Mar Puma Ccoyo",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "022-FIEEIM",
+    "nombre": "Jhoel Fabrizzio Magana Osorio",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "023-FIEEIM",
+    "nombre": "Jisbaj Gamarra Salas",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "024-FIEEIM",
+    "nombre": "Jose Daniel Mendoza Quispe",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "025-FIEEIM",
+    "nombre": "Julio Cesar Carbajal Luna",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "026-FIEEIM",
+    "nombre": "Julio Hernesto Alvarez Condori",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "027-FIEEIM",
+    "nombre": "Karelia Medina Miranda",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "028-FIEEIM",
+    "nombre": "Lisha Sabah Diaz Caceres",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "029-FIEEIM",
+    "nombre": "Manuel Eduardo Quispe Condori",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "030-FIEEIM",
+    "nombre": "Marcos Jesus Herencia Huillca",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "031-FIEEIM",
+    "nombre": "Maritza Katherine Irpanocca Cusimayta",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "032-FIEEIM",
+    "nombre": "Miguel Luna Chacon",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "033-FIEEIM",
+    "nombre": "Nila Zonia Acurio Usca",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "034-FIEEIM",
+    "nombre": "Raul Huillca Huallparimachi",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "035-FIEEIM",
+    "nombre": "Robert Wilbert Alzamora Paredes",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "036-FIEEIM",
+    "nombre": "Rodrigo Alonso Roque Huaman",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "037-FIEEIM",
+    "nombre": "Ronil Nilo Torres Bautista",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "038-FIEEIM",
+    "nombre": "Rosa Milagros Quintano Peralta",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "039-FIEEIM",
+    "nombre": "Rosy Aurely Montalvo Solorzano",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "040-FIEEIM",
+    "nombre": "Roy Rudecindo Tarraga Taiña",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "041-FIEEIM",
+    "nombre": "Sandro Alexander Salluca Chile",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "042-FIEEIM",
+    "nombre": "Stephan Jhoel Cosio Loaiza",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "043-FIEEIM",
+    "nombre": "Tany Villalba Villalba",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "044-FIEEIM",
+    "nombre": "Willian Zamalloa Paro",
+    "rol": "Asistente"
+  },
+  {
+    "codigo": "045-FIEEIM",
+    "nombre": "Yeshica Isela Ormeño Ayala",
+    "rol": "Asistente"
   }
 ]
